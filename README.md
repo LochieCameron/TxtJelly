@@ -19,5 +19,9 @@ under Social!
 Want to get into contact?
 
 Email: lochiecameron@gmail.com
+<br />
 Skype: bubblesplaysmc
-Website: lochiecameron.github.io
+<br />
+Website: <a href="http://lochiecameron.github.io">lochiecameron.github.io</a>
+<br />
+Project Site:<a href="http://lochiecameron.github.io/TxtJelly">http://lochiecameron.github.io/TxtJelly</a>
