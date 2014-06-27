@@ -28,9 +28,11 @@ function path_1() {
 	}
 }
 
-// Don't forget to call day3_y
+// Day 2 handlers
+// This is runs when the user selects go to a safe place
 function day2_x() {
 	alert("After a rest you continue on your trek to the village");
+          day3_y();
 }
 
 function day2_y() {
@@ -45,7 +47,9 @@ function day2_y() {
 		day3_x();
 	}
 }
+// END DAY 2 HERE
 
+// Day 3 handlers
 function day3_x() {
 	alert("Day 3");
 	alert("- you slowly wake up your tied up with ropes-");
@@ -78,7 +82,10 @@ function escape() {
 function day3_y() {
 
 }
+// Day 3 END HERE 
 
+// NIGHT 1 HANDLERS 
+// Called if the user selects keep walking
 function night() {
 	alert("- As you are walking along the path you get attacked by a wolf -");
 	health_n();
@@ -88,7 +95,7 @@ function night() {
 	alert("Day 2");
 	day2_y();
 }
-
+// END HERE
 
 // Health System
 
